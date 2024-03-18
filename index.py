@@ -1,8 +1,9 @@
+#INSTALAR ESSAS BIBLIOTECAS
 import pywhatkit
 import pyautogui
 import keyboard
 
-#DENTRO DAS AS ASPAS DUPLAS, ADICONA O NÚMERO NO QUAL DESEJA ENVIAR A MENSAGEM.
+#DENTRO DAS ASPAS DUPLAS, ADICONA O NÚMERO NO QUAL DESEJA ENVIAR A MENSAGEM.
 listNumber = ['', '']
 
 for number in listNumber:
